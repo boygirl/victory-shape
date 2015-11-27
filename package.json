@@ -1,0 +1,19 @@
+{
+  "name": "victory-shape",
+  "version": "0.0.1",
+  "description": "shape component for victory",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/boygirl/victory-shape.git"
+  },
+  "author": "Lauren Eastridge",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/boygirl/victory-shape/issues"
+  },
+  "homepage": "https://github.com/boygirl/victory-shape",
+  "scripts": {
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
